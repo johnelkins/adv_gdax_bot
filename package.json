@@ -1,0 +1,15 @@
+{
+  "name": "adv_gdax_bot",
+  "version": "1.0.0",
+  "description": "Advanced trading bot written in nodejs for gdax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "adv_gdax_host"
+  },
+  "author": "John Elkins",
+  "license": "ISC"
+}
